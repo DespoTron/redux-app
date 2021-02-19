@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { connect } from 'react-redux'
+// import { connect } from 'react-redux'
 
 class NewComp extends Component {
   constructor(props) {
@@ -29,3 +29,5 @@ class NewComp extends Component {
     )
   }
 }
+
+export default NewComp
